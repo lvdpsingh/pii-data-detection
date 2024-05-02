@@ -1,6 +1,6 @@
 # Enhancing Privacy and Accessibility in Educational Data through Automated PII Detection
 
-This repository contains the resources and documentation for the Master's Project titled "Enhancing Privacy and Accessibility in Educational Data through Automated PII Detection", authored by Lovedeep Singh under the guidance of Professor Desmund Lun at Rutgers, The State University of New Jersey, Graduate School - Camden.
+This repository contains the resources and documentation for the Master's Project titled "Enhancing Privacy and Accessibility in Educational Data through Automated PII Detection", authored by Lovedeep Singh under the guidance of Professor Desmund Lun at Rutgers, The State University of New Jersey.
 
 ## Project Overview
 
